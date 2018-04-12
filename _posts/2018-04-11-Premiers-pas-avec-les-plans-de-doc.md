@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Premiers pas avec les plans de doc"
-ref: get started
+ref: welcome
 date:   2018-04-11 
-categories: Doc Plans and Schedules
+categories: jekyll update
 lang: fr
 ---
 
