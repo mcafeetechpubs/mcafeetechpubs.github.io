@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Ã€ propos
+title: A propos
+permalink: /about/
 ref: about
 lang: fr
 ---
 
-Bienvenue à [mcafeetechpubs.github.io](https://mcafeetechpubs.github.io/)
+Bienvenue a [mcafeetechpubs.github.io](https://mcafeetechpubs.github.io/)
