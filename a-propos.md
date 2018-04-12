@@ -1,6 +1,6 @@
 ---
 layout: page
-title: À propos
+title: A propos
 ref: about
 lang: fr
 ---
