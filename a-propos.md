@@ -1,7 +1,6 @@
 ---
 layout: page
-title: A propos
-permalink: /about/
+title: À propos
 ref: about
 lang: fr
 ---
